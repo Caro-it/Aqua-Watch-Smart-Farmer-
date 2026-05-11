@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos pesados
+data/raw/*.csv
+data/raw/*.parquet
+*.zip
+
+# Credenciales (¡IMPORTANTE!)
+.env
+*.json
+credentials/
+service-account-*.json
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
