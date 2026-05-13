@@ -50,7 +50,7 @@ _(Se completará tras el análisis exploratorio)_
 
 ## 👥 Equipo
 
--Paola Tron Escobosa, Doralcris Perez, Marcela, Carolina kaechele  
+-Paola Tron Escobosa, Doralcris Perez, Marcela Muñoz, Carolina kaechele  
 
 
 ## 📜 Licencia
